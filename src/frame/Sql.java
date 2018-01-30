@@ -1,5 +1,5 @@
 package frame;
-
+ 
 public class Sql {
 
 	public static String insertFood = "INSERT INTO FOOD VALUES (?, ?, ?, ?, ?, ?)";

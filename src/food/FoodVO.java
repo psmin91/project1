@@ -1,5 +1,5 @@
 package food;
-
+ 
 public class FoodVO {
 
 	String kind;
